@@ -121,6 +121,10 @@ img {
 
 /* FEATURES */
 .features-icon {
+  stroke: #f9d8ae;
+  width: 32px;
+  height: 32px;
+  margin-bottom: 16px;
 }
 
 .features-title {
@@ -137,7 +141,7 @@ img {
 /* TESTIMONIAL */
 .testimonial-section {
   background-color: #ffffff;
-  color: #303740;
+  color: #505962;
   padding: 24px;
 }
 
@@ -190,6 +194,9 @@ h3 {
 }
 
 .knife-icon {
+  stroke: #f9d8ae;
+  width: 20px;
+  height: 20px;
 }
 
 .knife-price {
