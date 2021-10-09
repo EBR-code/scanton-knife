@@ -26,6 +26,7 @@ body {
   font-family: 'Nunito', sans-serif;
   background-color: #30373f;
   color: #f9d8ae;
+  border-bottom: 8px solid #71767c;
 }
 
 h1,
@@ -60,7 +61,7 @@ h2 {
 .btn:link,
 .btn:visited {
   background-color: #293037;
-  color: #71767c;
+  color: #d9dde1;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: 600;
@@ -135,6 +136,13 @@ img {
 
 /* TESTIMONIAL */
 .testimonial-section {
+  background-color: #ffffff;
+  color: #303740;
+  padding: 24px;
+}
+
+.testimonial-img {
+  align-self: center;
 }
 
 .testimonial-box {
@@ -193,4 +201,5 @@ h3 {
 footer {
   margin-bottom: 48px;
   font-size: 14px;
+  color: #eceef0;
 }
