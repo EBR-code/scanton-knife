@@ -120,7 +120,13 @@ img {
 }
 
 /* FEATURES */
+.features-item {
+  display: flex;
+  flex-direction: column;
+}
 .features-icon {
+  align-self: center;
+  margin-right: 37px;
   stroke: #f9d8ae;
   width: 32px;
   height: 32px;
